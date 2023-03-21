@@ -1,4 +1,4 @@
-main, header, section, footer {
+html, main, header, section, footer {
     color: rgb(233,240,214);
     font-family: 'Nanum Gothic', sans-serif;
     background:#273946; 
@@ -21,6 +21,7 @@ main {
     margin: 5px;
     border-radius: 5px;
     color: rgb(39, 57, 70);
+    box-shadow: 1px 1px 3px gray;
 }
 .featured-event img {
     width: 100%;
@@ -47,6 +48,7 @@ main {
     border-radius: 5px;
     padding: 10px;
     margin: 5px;
+    box-shadow: 1px 1px 3px lightgray;
 }
 .event img {
     width: 100%;
